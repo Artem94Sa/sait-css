@@ -1,0 +1,42 @@
+
+body{
+     background-color: rgb(233, 243, 241);}
+
+.konteiner{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 30px;
+    font-size: 10px;color: rgb(20, 19, 18);
+    background-color: rgb(244, 244, 245);
+    padding: 10px; auto;}
+
+.zagolovok{
+    font-size: 60px;color: rgb(201, 160, 85);
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;}
+
+.rightblok{
+    text-align: center;
+    margin-left: 60%;}
+    
+    .h3{
+        font-size: 16px; color: rgb(201, 160, 85);
+    text-decoration: underline}
+
+.Dno{
+        text-align: center;
+        background-color:rgb(229, 229, 236) ;
+        margin-top: 70px;}
+    
+.Dnoh3 {
+        font-size: 16px; color: rgb(201, 160, 85);
+        text-decoration: underline;}
+.section{
+    margin-top: -29%;
+    padding: 75px;;
+}
+    
+        
+    
